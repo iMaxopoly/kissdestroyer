@@ -1,0 +1,8 @@
+package: kissdestroyer
+import:
+- package: github.com/anaskhan96/soup
+- package: github.com/cardigann/go-cloudflare-scraper
+- package: github.com/go-ini/ini
+- package: github.com/mozillazg/go-slugify
+- package: github.com/robertkrimen/otto
+- package: gopkg.in/go-playground/pool.v3

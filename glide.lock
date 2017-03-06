@@ -1,0 +1,38 @@
+hash: 1080a75233395ef17001e88242f6ee1259b340072aa9d5beb86d24423cd122e6
+updated: 2017-03-06T00:48:00.9162742+05:30
+imports:
+- name: github.com/anaskhan96/soup
+  version: adb3dc37ef622f43bd262a8ddb0a99c6abc4e056
+  subpackages:
+  - fetch
+- name: github.com/cardigann/go-cloudflare-scraper
+  version: d1b2c438425d46b4d3825d7f6d90b63ab7d0ebdc
+- name: github.com/go-ini/ini
+  version: c437d20015c2ab6454b7a66a13109ff0fb99e17a
+- name: github.com/mozillazg/go-slugify
+  version: 591116de2dd717fdb8c05e29fa3bf5d3f7ba8c87
+- name: github.com/mozillazg/go-unidecode
+  version: 8772af720c7f2f4d216cc73c5f23de17450dd008
+  subpackages:
+  - table
+- name: github.com/robertkrimen/otto
+  version: 6a77b7cbc37d0c39f7d5fa5766826e541df31fd5
+  subpackages:
+  - ast
+  - dbg
+  - file
+  - parser
+  - registry
+  - token
+- name: golang.org/x/net
+  version: d379faa25cbdc04d653984913a2ceb43b0bc46d7
+  subpackages:
+  - html
+  - html/atom
+- name: gopkg.in/go-playground/pool.v3
+  version: e73cd3a5ded835540c5cf4778488579c5b357d68
+- name: gopkg.in/sourcemap.v1
+  version: 6e83acea0053641eff084973fee085f0c193c61a
+  subpackages:
+  - base64vlq
+testImports: []
